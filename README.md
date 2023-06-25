@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @NishiChandra
+- 👋 Hi, I’m @NishiChandra and currently working at BlackRock.
 - 👀 I’m interested in Data Science , Machine Learning, good software engineering practices and cloud computing.
-- 🌱 I’m currently learning GCP.
 - 💞️ I’m looking to collaborate on Machine Learning and Data Science Projects.
 - 📫 How to reach me : nishichandra97@gmail.com
 
